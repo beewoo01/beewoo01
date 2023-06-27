@@ -1,4 +1,4 @@
-#### Hey 👋🏽, I'm [S.H.W!]
+#### Hey 👋🏽, I'm S.H.W
 
 🔭 I’m currently working on android, iOS and Flutter
 <br/>
@@ -14,7 +14,7 @@
 <br/>
 😄 Pronouns: ...
 
-![](https://visitor-badge.glitch.me/badge?page_id=piashcse)
+<!--![](https://visitor-badge.glitch.me/badge?page_id=piashcse)-->
 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
