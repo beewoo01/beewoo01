@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-<h1>Hi I'm S.H.W, Mobile app Developer</h1>
+Hi I'm S.H.W, Mobile app Developer.
+
+Talking about Persnal Stuffs:
+I'm currently working on android, iOS and Flutter
+I'm currently learning jetpack compose and DI
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <!--
