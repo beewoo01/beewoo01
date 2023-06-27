@@ -4,11 +4,11 @@ Hi I'm S.H.W, Mobile app Developer.
 
 Talking about Persnal Stuffs:
 I'm currently working on android, iOS and Flutter
-I'm currently learning jetpack compose and DI
+I'm currently learning jetpack compose and dependency injection
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 
 <!--
 **beewoo01/beewoo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
