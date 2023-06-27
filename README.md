@@ -1,13 +1,4 @@
-### Hi there 👋
-
-Hi I'm S.H.W, Mobile app Developer.
-
-Talking about Persnal Stuffs:
-I'm currently working on android, iOS and Flutter
-I'm currently learning jetpack compose and dependency injection
-
-
-
+#### Hey 👋🏽, I'm [Piash!](https://piashcse.github.io/) 
 <a href="https://twitter.com/piashcse">
   <img align="left" alt="Mehedi Hassan Piash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -20,6 +11,8 @@ I'm currently learning jetpack compose and dependency injection
 <a href="https://piashcse.blogspot.com/">
   <img align="left" alt="Piash's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=piashcse)
 
 <!--
 **beewoo01/beewoo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
