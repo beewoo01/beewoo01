@@ -3,16 +3,18 @@
 
 #### 👋🏽, I'm S.H.W
 
-```js
 name : 신현우, HyunWoo Shin
+<br/>
 🔭 I’m currently working on Mobile Application Developer
-🌱 I’m currently learning jetpack compose and dependency injection
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-```
+<br/>
+🌱 I’m currently learning **CI/CD** and exploring **AI** 
+<br/>
+👯 I’m looking to collaborate on **innovative mobile projects** that blend performance and clean architecture 
+<br/>
+🤔 I’m looking for help with **advanced AI use cases in mobile apps**  
+<br/>
+📫 How to reach me: [gusdnek6425@gmail.com](mailto:gusdnek6425@gmail.com)  
+<br/>
 
 ### 🎹 Programming Languages
 
