@@ -127,11 +127,11 @@ name : 신현우, HyunWoo Shin
 
 ---
 
-<a href="https://github.com/asooso1"> 
+<a href="https://github.com/beewoo01"> 
 <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=beewoo01&show_icons=true&theme=radical"/>
-</a>  <a href="https://solved.ac/asooso1">
+</a>  <a href="https://github.com/beewoo01">
 <img width="20%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beewoo01" alt="asooso1's solved.ac stats"/>
-</a>
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer)
