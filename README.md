@@ -14,7 +14,6 @@ name : 신현우, HyunWoo Shin
 😄 Pronouns: ...
 ```
 
-<!--![](https://visitor-badge.glitch.me/badge?page_id=piashcse)-->
 ### 🎹 Programming Languages
 
 ![Dart](https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -28,7 +27,7 @@ name : 신현우, HyunWoo Shin
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
 ![ANSI C](https://img.shields.io/badge/C-a8b9cc?style=flat&logo=c&logoColor=white)
 
-
+---
 
 ### 🧚‍♂️ Flutter
 
@@ -46,6 +45,7 @@ name : 신현우, HyunWoo Shin
 ![Hive](https://img.shields.io/badge/hive-FBCE07?style=flat&logo=hive&logoColor=black)
 ![SharedPreferences](https://img.shields.io/badge/shared_preferences-9E9E9E?style=flat&logo=google&logoColor=white)
 
+---
 
 ### 🤖 Android
 
@@ -67,6 +67,7 @@ name : 신현우, HyunWoo Shin
 ![OkHttp](https://img.shields.io/badge/OkHttp-00695C?style=flat&logo=square&logoColor=white)
 ![Gson](https://img.shields.io/badge/Gson-FF7043?style=flat&logo=json&logoColor=white)
 
+---
 
 ### 🍎 Swift
 
@@ -74,7 +75,6 @@ name : 신현우, HyunWoo Shin
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=white)
-![SPM](https://img.shields.io/badge/Swift%20Package%20Manager-DE5C8A?style=flat&logo=swift&logoColor=white)
 
 #### 🖼 UI Frameworks
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-46B1F0?style=flat&logo=swift&logoColor=white)
@@ -90,6 +90,7 @@ name : 신현우, HyunWoo Shin
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white)
 ![UserDefaults](https://img.shields.io/badge/UserDefaults-8E8E93?style=flat&logo=apple&logoColor=white)
 
+---
 
 ### 🧩 Backend
 
@@ -111,7 +112,7 @@ name : 신현우, HyunWoo Shin
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
-
+---
 
 ### 🕹 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
@@ -122,6 +123,7 @@ name : 신현우, HyunWoo Shin
 ![XCode](https://img.shields.io/badge/-xcode-147EFB?logo=xcode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?logo=pycharm)
 
+---
 
 <a href="https://github.com/asooso1"> 
 <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=beewoo01&show_icons=true&theme=radical"/>
