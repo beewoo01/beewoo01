@@ -99,7 +99,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beewoo01&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beewoo01&layout=compact" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beewoo01&layout=compact&card_width=445" width="48%"/>
 </p>
 
 ---
